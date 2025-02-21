@@ -1,0 +1,1 @@
+This repository demonstrates an unexpected behavior in Next.js 15's App Router when using a function component as the default export in a page file. The issue arises when specific conditions are met (e.g., combination of layout and dynamic segments). This example provides a minimal reproduction of the issue and a possible solution.
